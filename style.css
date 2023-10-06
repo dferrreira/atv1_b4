@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.arnoldClass {
+    width: 10rem;
+    height: 8rem;
+    border: 2px dotted blue;
+    margin: 3rem auto;
+    padding: 1rem;
+}
+
+.ronnieClass {
+    width: 20rem;
+    height: 10rem;
+    border: 2px dotted black;
+    margin: 5rem auto;
+    padding: 3.5rem;
+}
+
+.cbumClass {
+    width: 15rem;
+    height: 12rem;
+    border: 2px dotted red;
+    margin: 2rem;
+    padding: 6rem;
+}
+
+.dinoClass {
+    width: 18rem;
+    height: 14rem;
+    border: 2px dotted green;
+    margin: 5rem;
+    padding: 4rem;
+}
